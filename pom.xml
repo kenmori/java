@@ -16,4 +16,13 @@
       </plugin>
     </plugins>
   </build>
+  <dependencyManagement>
+  	<dependencies>
+  		<dependency>
+  			<groupId>org.freeMaker</groupId>
+  			<artifactId>freeMaker</artifactId>
+  			<version>2.3.23</version>
+  		</dependency>
+  	</dependencies>
+  </dependencyManagement>
 </project>
